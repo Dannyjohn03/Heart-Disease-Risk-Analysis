@@ -19,6 +19,11 @@ This project presents a data-driven analysis of heart disease risk factors using
 
 **Source**: [Heart disease dataset](https://www.kaggle.com/datasets/neurocipher/heartdisease) from Kaggle.
 
+- [Data](Data): Contains the CSV file of the dataset used
+- [SQL](SQL): Contains the queries used to analyse and transform the dataset
+- [Power BI](Power BI): Contains the .pbix file of the dashboard
+- [Dashboard](Dashboard): Contains the pdf file of the dashboard.
+
 ### Key Features
 
 - **Demographics**: Age, Sex
@@ -141,3 +146,7 @@ The findings align with existing clinical knowledge that:
 - SQL: Data Cleaning & Transformation
 - Power BI: Visualization
 - DAX: Advanced Metrics
+
+## Author
+
+Ogunleye Daniel Ayodeji
