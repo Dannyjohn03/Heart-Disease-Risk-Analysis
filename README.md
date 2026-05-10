@@ -7,6 +7,8 @@ This project demonstrates how data analytics can transform raw health data into 
 Cardiovascular diseases remain one of the leading causes of morbidity and mortality globally. Early identification of at-risk individuals is essential for prevention, timely intervention, and improved health outcomes.
 This project presents a data-driven analysis of heart disease risk factors using a structured dataset. By leveraging SQL for data processing and Power BI for visualization, the study aims to uncover patterns in demographic and clinical variables associated with heart disease.
 
+<img src="Dashboard/20260329_180533.jpg" alt="Description">
+
 ## 🎯 Objectives
 
 - To determine the prevalence of heart disease in the dataset
